@@ -1,8 +1,4 @@
-# ﻿# 11ICCS-YOLOv8
-
-# &nbsp;
-
-# \# Introduction of the dataset
+#  # Introduction of the dataset
 
 # 
 
