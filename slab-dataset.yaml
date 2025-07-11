@@ -1,0 +1,11 @@
+# dataset path
+path: /media/db306/e835eb80-e8ad-4728-8263-61e52cc524a1/gll/ICCS-YOLOv8/ultralytics-main/dataset/dataset-slab/datasets/images
+train: ./train
+val: ./val
+test: ./test
+
+# number of classes
+nc: 3
+
+# class names
+names: ['slab','crane','craneandslab']
